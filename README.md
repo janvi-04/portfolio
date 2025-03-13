@@ -15,13 +15,13 @@
    - Push the generated code to the `master` branch.
 
 ## Sections 
-✔️ Home
+✔️ Home  
 ✔️ About  
 ✔️ Blogs  
 ✔️ Experience  
 ✔️ Projects    
 ✔️ Resume  
-✔️ Contact 
+✔️ Contact  
 
 ## Tools Used 
 - **GitHub Pages** - To host my static website (HTML, CSS, JS).
