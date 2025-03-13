@@ -21,7 +21,7 @@
 ✔️ Experience  
 ✔️ Projects    
 ✔️ Resume  
-✔️ Contact  
+✔️ Contact 
 
 ## Tools Used 
 - **GitHub Pages** - To host my static website (HTML, CSS, JS).
